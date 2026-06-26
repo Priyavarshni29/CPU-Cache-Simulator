@@ -1,0 +1,17 @@
+# Compiled executables
+*.exe
+*.out
+
+# Object files
+*.o
+*.obj
+
+# Visual Studio Code
+.vscode/
+
+# Code::Blocks
+bin/
+obj/
+
+# macOS
+.DS_Store
