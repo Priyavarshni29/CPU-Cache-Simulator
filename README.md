@@ -132,4 +132,4 @@ Miss Ratio : 75%
 
 ## Author
 
-**Priya Varshni**
+**Priyavarshni**
